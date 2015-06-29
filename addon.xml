@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="media.icons.studio.white"
-       name="White studio logos"
-	   version="0.0.1"
-	   provider-name="Martijn">
-  <extension point="xbmc.media.graphics"/>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">White studio icon pack</summary>
-    <description lang="en">White studio icon pack that can be used by skins. Image size 161x109</description>
-    <disclaimer lang="en">All credits to the makers of these images. License CC-BY-SA 3.0</disclaimer>
-    <platform>all</platform>
-  </extension>
+<addon id="resource.images.studios.white" name="White Studio Icons" version="0.0.1" provider-name="Team Kodi">
+	<extension point="kodi.resource.images" type="studios" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">White Studio icons</summary>
+		<description lang="en">White Studio icons</description>
+		<platform>all</platform>
+	</extension>
 </addon>
