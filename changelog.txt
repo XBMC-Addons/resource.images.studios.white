@@ -1,4 +1,7 @@
 v0.0.5
+- Add info file
+
+v0.0.5
 - add compile flag
 
 v0.0.4
