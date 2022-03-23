@@ -8,6 +8,9 @@
 		<summary lang="en">White Studio Icons</summary>
 		<description lang="en">White Studio Icons</description>
 		<platform>all</platform>
-		<license>Creative Commons Attribution-Share Alike 3.0 United States</license>
+		<license>CC-BY-SA-3.0</license>
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
 	</extension>
 </addon>
